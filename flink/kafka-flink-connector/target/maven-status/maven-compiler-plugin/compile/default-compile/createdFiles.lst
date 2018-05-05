@@ -1,0 +1,6 @@
+com/grallandco/demos/SocketTextStreamWordCount$LineSplitter.class
+com/grallandco/demos/StreamingJob.class
+com/grallandco/demos/BatchJob.class
+com/grallandco/demos/WordCount.class
+com/grallandco/demos/WordCount$LineSplitter.class
+com/grallandco/demos/SocketTextStreamWordCount.class

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.flink:force-shading:1.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/flink/force-shading/1.1-SNAPSHOT/force-shading-1.1-20160801.045302-403.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/flink/force-shading/1.1-SNAPSHOT/force-shading-1.1-20160801.045302-403-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/flink/force-shading/1.1-SNAPSHOT/force-shading-1.1-20160801.045302-403-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
